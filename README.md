@@ -52,7 +52,6 @@ We break the notebook into separate steps.  Feel free to use the links below to 
 # Files
 * \bottleneck_features
   * DogResnet50Data.npz: Resnet50 bottleneck features
-  * DogVGG16Data.npz: VGG16 bottleneck features
 * \images
   * images needed in the jupyter notebook
 * dog_app.ipynb: jupyter notebook containing all code
